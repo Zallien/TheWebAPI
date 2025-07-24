@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|c:\\users\\julli\\desktop\\ojt_pos\\northbayojtwebapi\\northbaywebapi\\northbaywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|solutionrelative:northbaywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|c:\\users\\julli\\desktop\\ojt_pos\\northbayojtwebapi\\northbaywebapi\\northbaywebapi\\itemmodels\\iproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|solutionrelative:northbaywebapi\\itemmodels\\iproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|c:\\users\\julli\\desktop\\ojt_pos\\northbayojtwebapi\\northbaywebapi\\northbaywebapi\\models\\northbaycompanyposinventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|solutionrelative:northbaywebapi\\models\\northbaycompanyposinventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|c:\\users\\julli\\desktop\\ojt_pos\\northbayojtwebapi\\northbaywebapi\\northbaywebapi\\properties\\urlforapiswagger.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|solutionrelative:northbaywebapi\\properties\\urlforapiswagger.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|c:\\users\\julli\\desktop\\ojt_pos\\northbayojtwebapi\\northbaywebapi\\northbaywebapi\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|solutionrelative:northbaywebapi\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|c:\\users\\julli\\desktop\\ojt_pos\\northbayojtwebapi\\northbaywebapi\\northbaywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9883A07-3668-40C1-B3F8-8BB083982F34}|NorthbayWebAPI\\NorthbayWebAPI.csproj|solutionrelative:northbaywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductList.cs",
+              "DocumentMoniker": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\Models\\ProductList.cs",
+              "RelativeDocumentMoniker": "NorthbayWebAPI\\Models\\ProductList.cs",
+              "ToolTip": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\Models\\ProductList.cs",
+              "RelativeToolTip": "NorthbayWebAPI\\Models\\ProductList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:02:16.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NorthbayCompanyPosinventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\Models\\NorthbayCompanyPosinventoryContext.cs",
+              "RelativeDocumentMoniker": "NorthbayWebAPI\\Models\\NorthbayCompanyPosinventoryContext.cs",
+              "ToolTip": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\Models\\NorthbayCompanyPosinventoryContext.cs",
+              "RelativeToolTip": "NorthbayWebAPI\\Models\\NorthbayCompanyPosinventoryContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:00:07.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "URLforAPISwagger.txt",
+              "DocumentMoniker": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\Properties\\URLforAPISwagger.txt",
+              "RelativeDocumentMoniker": "NorthbayWebAPI\\Properties\\URLforAPISwagger.txt",
+              "ToolTip": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\Properties\\URLforAPISwagger.txt",
+              "RelativeToolTip": "NorthbayWebAPI\\Properties\\URLforAPISwagger.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-23T00:16:22.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "iProducts.cs",
+              "DocumentMoniker": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\ItemModels\\iProducts.cs",
+              "RelativeDocumentMoniker": "NorthbayWebAPI\\ItemModels\\iProducts.cs",
+              "ToolTip": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\ItemModels\\iProducts.cs",
+              "RelativeToolTip": "NorthbayWebAPI\\ItemModels\\iProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:16:40.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "NorthbayWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\appsettings.json",
+              "RelativeToolTip": "NorthbayWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T03:08:21.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NorthbayWebAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\julli\\Desktop\\OJT_POS\\NorthbayOJTWebAPI\\NorthbayWebAPI\\NorthbayWebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NorthbayWebAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAlwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T02:52:00.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
