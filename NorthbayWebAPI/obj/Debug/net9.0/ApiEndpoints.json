@@ -72,6 +72,32 @@
     ]
   },
   {
+    "ContainingType": "NorthbayWebAPI.Controllers.ProductController",
+    "Method": "UpdateProduct",
+    "RelativePath": "Product/UpdateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateItem",
+        "Type": "NorthbayWebAPI.ItemModels.UpdateItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "NorthbayWebAPI.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -150,7 +150,6 @@ C:\Users\julli\Desktop\OJT_POS\NorthbayOJTWebAPI\NorthbayWebAPI\NorthbayWebAPI\o
 C:\Users\julli\Desktop\OJT_POS\NorthbayOJTWebAPI\NorthbayWebAPI\NorthbayWebAPI\obj\Debug\net9.0\NorthbayWebAPI.csproj.CoreCompileInputs.cache
 C:\Users\julli\Desktop\OJT_POS\NorthbayOJTWebAPI\NorthbayWebAPI\NorthbayWebAPI\obj\Debug\net9.0\NorthbayWebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\julli\Desktop\OJT_POS\NorthbayOJTWebAPI\NorthbayWebAPI\NorthbayWebAPI\obj\Debug\net9.0\NorthbayWebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\julli\Desktop\OJT_POS\NorthbayOJTWebAPI\NorthbayWebAPI\NorthbayWebAPI\obj\Debug\net9.0\NorthbayWebAPI.sourcelink.json
 C:\Users\julli\Desktop\OJT_POS\NorthbayOJTWebAPI\NorthbayWebAPI\NorthbayWebAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\julli\Desktop\OJT_POS\NorthbayOJTWebAPI\NorthbayWebAPI\NorthbayWebAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\julli\Desktop\OJT_POS\NorthbayOJTWebAPI\NorthbayWebAPI\NorthbayWebAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json

@@ -87,6 +87,41 @@ namespace NorthbayWebAPI.Controllers
 
         }
 
+        [HttpPost("UpdateProduct")]
+        public async Task<bool> UpdateProduct([FromBody] UpdateItem updateItem)
+        {
+            bool IsUpdated = false;
+
+            try
+            {
+
+                var product = await _db.ProductLists.FirstOrDefaultAsync(p => p.ProductId == updateItem.ProductId);
+
+                if (product != null)
+                {
+                    product.ProductName = updateItem.ProductName;
+                    product.ProductPrice = updateItem.ProductPrice;
+
+                    await _db.SaveChangesAsync();
+                    IsUpdated = true;
+
+                }
+
+
+            }
+            catch (Exception e)
+            {
+
+
+            }
+
+
+
+
+            return IsUpdated;
+
+        }
+
 
     }
 }

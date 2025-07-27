@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthbayWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1e649e9cefbdde2f9967bd45a6afa5cbbde051")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7e5cb08f402164ed62f8b803c8a2ae59e700a28")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthbayWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthbayWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
